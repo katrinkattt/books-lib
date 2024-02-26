@@ -1,0 +1,8 @@
+{
+  "name": "books",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/books/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
